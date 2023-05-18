@@ -1,0 +1,43 @@
+---
+title: "GSoC Updates"
+author: "Abhishek Ulayil"
+date: "may 19 2023"
+format: 
+    revealjs:
+        incremental: true
+        theme: dark
+        footer: "GSoC Updates"
+---
+
+## Past
+
+Last year I have contributed to :
+
+-   [`texor` package](https://github.com/Abhi-1U/texor) : To automate manual conversion processes for legacy RJournal Articles from LaTeX to web format(Rmarkdown).
+-   [`rebib` package](https://github.com/Abhi-1U/rebib) : Tools to Convert and Aggregate Bibliographies
+-   A patch of code to `rjtools`
+-   Lots of [Lua Filters](https://github.com/Abhi-1U/tex-lua-filters) for pandoc
+
+## Present
+
+As of now I am :
+
+-   [Preparing](https://github.com/Abhi-1U/rebib/issues/12) one of the packages for CRAN
+-   working on a [Github actions workflow](https://github.com/Abhi-1U/texor-ghactions) for easier conversion of articles
+-   Ton of fixes and documentation updates
+-   Having Fun while doing that 🙂
+
+## Future
+
+I expect to do more things like :
+
+- Get my other package to CRAN
+- Convert the Legacy article Issues to Web and deploy them
+- Write an Article to inform more potential authors about this package
+- Improvements to the packages
+
+# Any Questions ?
+
+# Thank You !
+
+
